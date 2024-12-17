@@ -56,6 +56,7 @@ https://github.com/Smoothwall/open-source-patches/tree/master/caswell-network-by
 
 ## Sophos
 rebranded Portwell/Casswell hardware - see above
+https://support.sophos.com/support/s/article/KBA-000008550?language=en_US
 
 ## Citrix
 rebranded Caswell? - see above
