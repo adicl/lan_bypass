@@ -1,7 +1,7 @@
 # lan_bypass
 A place to gather documentation about network cards with bypass (fail-to-wire) features and tools for them
 
-## What is LAN/network/server bypass
+## What is LAN/network/server bypass fail-to-wire
 https://www.aewin.com/application/techblog-bypass/
 
 https://vasexperts.com/resources/glossary/bypass/
@@ -10,7 +10,7 @@ https://support.checkpoint.com/results/sk/sk85560
 
 https://www.servethehome.com/explaining-what-is-a-server-bypass-adapter-silicom-intel/
 
-
+https://www.ecessa.com/blog/what-is-fail-to-wire/
 
 
 ## Manufacturers
@@ -61,3 +61,5 @@ https://support.sophos.com/support/s/article/KBA-000008550?language=en_US
 
 ## Citrix
 rebranded Caswell? - see above
+
+https://support.citrix.com/s/article/CTX136813-faq-failtowire-feature-in-cloudbridge-2000-and-3000-appliances?language=en_US
